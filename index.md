@@ -4,3 +4,4 @@
 #### this is a header file 4
 ##### this is a header file 5
 ###### this is a header file 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
